@@ -1,0 +1,25 @@
+body {
+  background-color: #cadde5;
+  margin: 0;
+  padding: 0;
+}
+
+.cabecera {
+  background-color: #BCA9F5;
+  padding: 18px;
+}
+
+.h1 {}
+
+.lista {
+  background: #F4F4F4;
+  border: 1px solid #7C7C7C;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: #BCA9F5;
+  padding: 15px;
+}
